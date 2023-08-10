@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sai Dinesh
-- 👀 I’m interested in 🌐 Frontend Developer | 🐍 Python Enthusiast | 📊 SQL Wizard
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Sai Dinesh.
+- 👀 I’m interested in 🌐 Frontend Developer | 🐍 Python Enthusiast | 📊 SQL Wizard.
+- 🌱 I’m currently learning Python Full Stack.
 - 🚀 Let's connect and collaborate on innovative projects! Feel free to reach out for frontend magic, Python coding, or SQL expertise.
 - 📫  You can reach me at saidineshsayannagari7@gmail.com or find me on LinkedIn www.linkedin.com/in/sai-dinesh-sayannagari-991113241.
